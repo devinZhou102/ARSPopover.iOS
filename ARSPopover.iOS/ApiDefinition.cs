@@ -1,22 +1,7 @@
 ﻿using System;
-using AVFoundation;
-using CloudKit;
-using CoreAnimation;
-using CoreData;
-using CoreFoundation;
 using CoreGraphics;
-using CoreImage;
-using CoreLocation;
-using CoreVideo;
-using FileProvider;
 using Foundation;
-using IOSurface;
-using ImageIO;
-using Intents;
-using Metal;
 using ObjCRuntime;
-using OpenGLES;
-using Security;
 using UIKit;
 
 namespace ARSPopover.iOS

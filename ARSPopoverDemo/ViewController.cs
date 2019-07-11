@@ -1,7 +1,6 @@
 ﻿using Foundation;
 using System;
 using UIKit;
-using ARSPopover.iOS;
 
 namespace ARSPopoverDemo
 {
@@ -32,12 +31,8 @@ namespace ARSPopoverDemo
 
             PresentViewController(popover, true, new Action(()=> {
                 popover.InsertContentIntoPopover((a,b,c)=> {
-                    //a = popover;
-                    //b = new CoreGraphics.CGSize(100, 100);
-
                     var button = new UIButton(UIButtonType.RoundedRect);
                     button.SetTitle("Close", UIControlState.Normal);
-                    button.BackgroundColor = UIColor.Red;
                     button.SizeToFit();
                     button.Center = new CoreGraphics.CGPoint(50,50);
                     a.View.AddSubview(button);

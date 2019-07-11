@@ -7,7 +7,7 @@
     <ProjectGuid>{FD2B046C-16A2-4B48-9559-DFF1D030C051}</ProjectGuid>
     <TemplateGuid>{b6f3ff35-79b2-4f25-a2fc-60a7cf61013b}</TemplateGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>ARSPopover.iOS</RootNamespace>
+    <RootNamespace>ARSPopoverBinding</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AssemblyName>ARSPopover.iOS</AssemblyName>
   </PropertyGroup>

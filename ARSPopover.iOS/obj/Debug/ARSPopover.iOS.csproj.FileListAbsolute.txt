@@ -1,0 +1,5 @@
+/Users/devin/Desktop/ARSPopover.iOS/ARSPopover.iOS/bin/Debug/ARSPopover.iOS.dll
+/Users/devin/Desktop/ARSPopover.iOS/ARSPopover.iOS/bin/Debug/ARSPopover.iOS.pdb
+/Users/devin/Desktop/ARSPopover.iOS/ARSPopover.iOS/obj/Debug/ARSPopover.iOS.csproj.CoreCompileInputs.cache
+/Users/devin/Desktop/ARSPopover.iOS/ARSPopover.iOS/obj/Debug/ARSPopover.iOS.dll
+/Users/devin/Desktop/ARSPopover.iOS/ARSPopover.iOS/obj/Debug/ARSPopover.iOS.pdb

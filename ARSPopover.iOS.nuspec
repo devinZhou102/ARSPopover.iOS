@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>ARSPopover.iOS</id>
+        <version>1.0.0.0</version>
+        <description> Xamarin.iOS Binding Library - ARSPopover </description>
+        <authors>devinzhou</authors>
+        <owners>devinzhou</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Devin - ARSPopover.iOS</title>
+        <releaseNotes>
+            First Release
+        </releaseNotes>
+        <summary> Xamarin.iOS Binding Library - ARSPopover, Universal popover for iPhone and iPad that you can use in your projects. No custom drawing, no custom elements - everything is purely native.</summary>
+        <!-- <iconUrl></iconUrl> -->
+        <projectUrl>https://github.com/devinZhou102/ARSPopover.iOS</projectUrl>
+        <copyright>Copyright (c) 2019-present Devin</copyright>
+        <tags>Xamarin.iOS,Xamarin.Forms, Popover</tags>
+        
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <!-- iOS -->
+        <file src="ARSPopover.iOS\bin\Release\ARSPopover.iOS.*" target="lib\Xamarin.iOS10"  />
+        
+        
+    </files>
+</package>

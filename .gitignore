@@ -4,3 +4,9 @@
 
 /ARSPopoverDemo/obj/iPhoneSimulator/Debug
 /.vs/ARSPopover.iOS/v16/Server/sqlite3
+/ARSPopover.iOS/obj/Debug
+/ARSPopover.iOS/obj
+/ARSPopover.iOS/bin
+/.vs/ARSPopover.iOS
+/ARSPopoverDemo/obj
+/ARSPopoverDemo/bin
